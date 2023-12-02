@@ -21,5 +21,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-def fucking(name):
-    print(f'Fuck YOU, {name}')
